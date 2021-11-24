@@ -14,7 +14,7 @@ Users should be able to:
 - Search for any IP addresses or domains and see the key information and location
 
 ### Screenshot
-
+![Screenshot from 2021-11-24 16-17-13](https://user-images.githubusercontent.com/74854926/143255037-18cf272d-634d-4060-801e-44fb51ce80ea.png)
 ### Built with
 
 - Semantic HTML5 markup
